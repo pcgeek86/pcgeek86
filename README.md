@@ -10,11 +10,11 @@ My objective is to share unique tips and tricks to help people be more productiv
 
 On social media, you can [find me on LinkedIn 👨🏻‍🚀](https://www.linkedin.com/in/trevor-sullivan-310000225/).
 
-## Training Content at CBT Nuggets
+## Training Content at CBT Nuggets 🎥
 
 I've worked at CBT Nuggets as a software trainer, starting in April 2020. 
 During my time there, I've produced a significant amount of training content, north of 150+ hours.
-The topics I've built training on include: PowerShell, AWS, Azure, GitHub, MySQL, and Kubernetes.
+The topics I've built training on include: PowerShell, AWS, Azure, GitHub, MySQL, and Kubernetes. ☁️
 One of the great things about IT training with CBT Nuggets is that we offer a quizzing platform, to test your newfound technical knowledge.
 
 - My [AWS Cloud Automation course](https://www.cbtnuggets.com/it-training/aws/cloud-automation) alone has 96 hours of PowerShell and Python content.
