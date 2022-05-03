@@ -13,7 +13,7 @@ On social media, you can [find me on LinkedIn 👨🏻‍🚀](https://www.linke
 ## Training Content at CBT Nuggets 🎥
 
 I've worked at CBT Nuggets as a software trainer, starting in April 2020. 
-During my time there, I've produced a significant amount of training content, north of 150+ hours.
+During my time there, I've produced a significant amount of training content, north of 200+ hours.
 The topics I've built training on include: PowerShell, AWS, Azure, GitHub, MySQL, and Kubernetes. ☁️
 One of the great things about IT training with CBT Nuggets is that we offer a quizzing platform, to test your newfound technical knowledge.
 
