@@ -4,8 +4,8 @@ I've been working in the software industry since early 2004.
 The technologies I have worked with include Microsoft Azure, Amazon Web Services (AWS), PowerShell, Python, JavaScript, MySQL, GitHub, Kubernetes, and many others. 
 Over the years, I have produced many videos on [my YouTube channel 📺](https://youtube.com/trevorsullivan), especially around cloud and automation topics.
 
-I'm building a new documentation website, with a focus on open source tools, at https://notes.opensrc.dev.
-This website is being built out using a new JavaScript framework, based on Next.js, called [Dendron 🌱](https://dendron.so).
+I'm building a new documentation website, with a focus on open source tools, at https://docs.opensrc.dev.
+This website is being built out using the [Docusaurus](https://github.com/facebook/docusaurus) JavaScript framework.
 My objective is to share unique tips and tricks to help people be more productive in software development and deployment.
 
 On social media, you can [find me on LinkedIn 👨🏻‍🚀](https://www.linkedin.com/in/trevor-sullivan-310000225/).
