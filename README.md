@@ -12,8 +12,9 @@ On social media, you can [find me on LinkedIn 👨🏻‍🚀](https://www.linke
 
 ## Video Training Content
 
+* 📺 YouTube Playlist: [LXD on Linux](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpX_uqK_hAq98ltdc4DP-D34)
 * 📺 YouTube Playlist: [Open Source Software](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpWrhpGuSlRJEHsMvbjXMRob)
-* 📺 YouTube Playlist: [Amazon Web Services (AWS)]()
+* 📺 YouTube Playlist: [Amazon Web Services (AWS)](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpVpa6IAsTnP4Hpim1XNy0Wi)
 * 📺 YouTube Playlist: [Microsoft Azure](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpW8Tx9YRRGs30Ib2MN12goh)
 * 📺 YouTube Playlist: [PowerShell Automation](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpWfOdanbVPsH-dv0_Ewxngf)
 
