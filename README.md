@@ -14,9 +14,9 @@ On social media, you can [find me on LinkedIn 👨🏻‍🚀](https://www.linke
 
 * 📺 YouTube Playlist: [LXD on Linux](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpX_uqK_hAq98ltdc4DP-D34)
 * 📺 YouTube Playlist: [Open Source Software](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpWrhpGuSlRJEHsMvbjXMRob)
+* 📺 YouTube Playlist: [PowerShell Automation](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpWfOdanbVPsH-dv0_Ewxngf)
 * 📺 YouTube Playlist: [Amazon Web Services (AWS)](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpVpa6IAsTnP4Hpim1XNy0Wi)
 * 📺 YouTube Playlist: [Microsoft Azure](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpW8Tx9YRRGs30Ib2MN12goh)
-* 📺 YouTube Playlist: [PowerShell Automation](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpWfOdanbVPsH-dv0_Ewxngf)
 
 When I produce content for my followers, my primary objective is to promote knowledge that other people can use in their own environments.
 I genuinely hope that people who see my videos, read my articles, or use my open source tools, will experience less friction in their software journey.
