@@ -1,7 +1,7 @@
 ## Hello, I'm Trevor Sullivan 👋🏻
 
 I've been working in the software industry since early 2004.
-The technologies I have worked with include Microsoft Azure, Amazon Web Services (AWS), PowerShell, Golang, Rust, Python, JavaScript, MySQL, GitHub, Kubernetes, and many others. 
+The technologies I have worked with include Microsoft Azure, Amazon Web Services (AWS), Docker, PowerShell, Golang, Rust, Python, JavaScript, MySQL, GitHub, Kubernetes, and many others. 
 Over the years, I have produced many videos on [my YouTube channel 📺](https://youtube.com/trevorsullivan), especially around cloud and automation topics.
 
 I'm building a new documentation website, with a focus on open source tools, at https://docs.opensrc.dev.
