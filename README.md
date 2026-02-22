@@ -4,6 +4,10 @@ I've been working in the software industry since early 2004.
 The technologies I have worked with include Microsoft Azure, Amazon Web Services (AWS), Docker, PowerShell, Golang, Rust, Python, JavaScript, MySQL, GitHub, Kubernetes, and many others. 
 Over the years, I have produced many videos on [my YouTube channel 📺](https://youtube.com/trevorsullivan), especially around cloud and automation topics.
 
+On the AI side of things, I am excited about running Large Language Models (LLM) locally on NVIDIA GPUs!
+I use software such as [OpenCode CLI](https://opencode.ai/), [LM Studio](https://lmstudio.ai/), [Ollama](https://ollama.com/), [vLLM](https://vllm.ai/) (in Docker), and others.
+Models that I've experimented with and found to perform well include [NVIDIA Nemotron](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4), [IBM Granite](https://huggingface.co/ibm-granite), [Z.ai GLM](https://huggingface.co/zai-org), and [Mistral AI](https://huggingface.co/mistralai) Ministral.
+
 I'm building a new documentation website, with a focus on open source tools, at https://docs.opensrc.dev.
 This website is being built out using the [Docusaurus](https://github.com/facebook/docusaurus) JavaScript framework.
 My objective is to share unique tips and tricks to help people be more productive in software development and deployment.
